@@ -1,0 +1,2 @@
+this is sample text. all text is in small caps
+Proin bibendum aliquet dapibus. Sed in ipsum a urna imperdiet pharetra. Duis maximus ipsum vel ipsum malesuada, laoreet iaculis nisi lacinia. In et pellentesque purus. Cras hendrerit nibh eget justo efficitur, vel ultrices nunc volutpat. Aliquam efficitur sed turpis quis bibendum. Fusce maximus ac magna nec tempus. 
